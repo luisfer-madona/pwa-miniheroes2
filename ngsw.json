@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1653192437841,
+  "timestamp": 1653192777225,
   "index": "https://luisfer-madona.github.io/pwa-miniheroes2/src/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://luisfer-madona.github.io/pwa-miniheroes2/src/favicon.ico",
         "https://luisfer-madona.github.io/pwa-miniheroes2/src/index.html",
-        "https://luisfer-madona.github.io/pwa-miniheroes2/src/main.3c43f25b2b5bc054.js",
+        "https://luisfer-madona.github.io/pwa-miniheroes2/src/main.eab18bcac468e96e.js",
         "https://luisfer-madona.github.io/pwa-miniheroes2/src/manifest.webmanifest",
         "https://luisfer-madona.github.io/pwa-miniheroes2/src/polyfills.f280a8b15a86a4af.js",
         "https://luisfer-madona.github.io/pwa-miniheroes2/src/runtime.8f4748ca731f90d5.js",
@@ -104,8 +104,8 @@
     "https://luisfer-madona.github.io/pwa-miniheroes2/src/assets/js/modalFormulario.js": "cb9cb7aacb64769c39b0cc2a87503cfd48c2d541",
     "https://luisfer-madona.github.io/pwa-miniheroes2/src/assets/js/tablaUsuarios.js": "69f1dcd087e0b4e979019a3eb5b755b39bccf08c",
     "https://luisfer-madona.github.io/pwa-miniheroes2/src/favicon.ico": "70436a512456c8e0f4205c8a2df430dbebb64070",
-    "https://luisfer-madona.github.io/pwa-miniheroes2/src/index.html": "5984270377a86262ce65d860d0a700037815e37d",
-    "https://luisfer-madona.github.io/pwa-miniheroes2/src/main.3c43f25b2b5bc054.js": "bc794d10576838d81d95941b0fef7713bdb07957",
+    "https://luisfer-madona.github.io/pwa-miniheroes2/src/index.html": "bd649147b5de4c28740a4d81f9d3b9d53e294016",
+    "https://luisfer-madona.github.io/pwa-miniheroes2/src/main.eab18bcac468e96e.js": "4630ed1f7b3c86b515334bea7cea6acf03826775",
     "https://luisfer-madona.github.io/pwa-miniheroes2/src/manifest.webmanifest": "076fe1e8d8538031dfeb5db98377630fe1477968",
     "https://luisfer-madona.github.io/pwa-miniheroes2/src/polyfills.f280a8b15a86a4af.js": "59d01b8f64dfbca0206a5e7d6cab1c03fddeb347",
     "https://luisfer-madona.github.io/pwa-miniheroes2/src/runtime.8f4748ca731f90d5.js": "a1dbf5d1feaa6ae006f816eb7cc9976c117bd23b",
